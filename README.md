@@ -6,7 +6,7 @@ This project focuses on automating the process of data cleaning, analysis, repor
 
 The objective of this project is to reduce manual effort in handling raw data and provide meaningful insights through an automated workflow.
 
----
+--
 
 ## Objectives
 
